@@ -1,2 +1,2 @@
 # analysis
-my analytics
+My analytics by ipython and for sql study
