@@ -1,0 +1,11 @@
+INSERT INTO sql_study_region (region_id, region_name)VALUES (1, '北海道');
+INSERT INTO sql_study_region (region_id, region_name)VALUES (2, '東北');
+INSERT INTO sql_study_region (region_id, region_name)VALUES (3, '関東');
+INSERT INTO sql_study_region (region_id, region_name)VALUES (4, '信越');
+INSERT INTO sql_study_region (region_id, region_name)VALUES (5, '北陸');
+INSERT INTO sql_study_region (region_id, region_name)VALUES (6, '東海');
+INSERT INTO sql_study_region (region_id, region_name)VALUES (7, '近畿');
+INSERT INTO sql_study_region (region_id, region_name)VALUES (8, '中国');
+INSERT INTO sql_study_region (region_id, region_name)VALUES (9, '四国');
+INSERT INTO sql_study_region (region_id, region_name)VALUES (10, '九州');
+INSERT INTO sql_study_region (region_id, region_name)VALUES (11, '沖縄');
